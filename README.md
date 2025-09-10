@@ -1,6 +1,5 @@
 # JDBC-MySQL-Project
 
-# JDBC MySQL Project
 
 A simple Java project demonstrating **JDBC (Java Database Connectivity)** integration with **MySQL**. This project covers basic database operations like **CRUD** (Create, Read, Update, Delete) using Java and MySQL.
 
