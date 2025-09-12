@@ -62,7 +62,7 @@ Before running this project, make sure you have:
 - A MySQL database and user with proper privileges  
 
 ---
-Project Structure
+## Project Structure
 jdbc-mysql-project/
 │
 ├── src/
@@ -76,7 +76,7 @@ jdbc-mysql-project/
 Contributing
 
 
-Contributions are welcome!
+## Contributions are welcome!
 
 Fork the repository
 
@@ -88,7 +88,7 @@ Push to the branch (git push origin feature/YourFeature)
 
 Open a Pull Request
 
-
+## License
 
 
 
