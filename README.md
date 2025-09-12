@@ -75,6 +75,19 @@ jdbc-mysql-project/
 └── .gitignore
 Contributing
 
+## database-schema
+CREATE DATABASE employee_db;
+
+USE employee_db;
+
+CREATE TABLE employee (
+    emp_id INT AUTO_INCREMENT PRIMARY KEY,
+    first_name VARCHAR(50) NOT NULL,
+    last_name VARCHAR(50) NOT NULL,
+    email VARCHAR(100),
+    salary DOUBLE,
+    department VARCHAR(50)
+);
 
 ## Contributions are welcome!
 
